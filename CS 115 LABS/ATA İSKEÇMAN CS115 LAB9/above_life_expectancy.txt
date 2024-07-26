@@ -1,0 +1,88 @@
+Afghanistan 70.807
+Albania 71.4
+Argentina 69.201
+Armenia 67.906
+Australia 68.8
+Austria 69.702
+Azerbaijan 67.355
+Bahrain 68.6
+Bangladesh 67.1
+Belarus 68.0
+Belgium 70.799
+Benin 68.098
+Bolivia 68.699
+Bosnia and Herzegovina 67.0
+Botswana 68.999
+Brazil 65.474
+Bulgaria 65.255
+Burkina Faso 65.2
+Burundi 65.699
+Cameroon 66.253
+Chile 67.055
+China 65.656
+Costa Rica 69.6
+Croatia 75.1
+Cyprus 73.9
+Denmark 76.82
+Dominican Republic 69.593
+Ecuador 71.4
+El Salvador 69.1
+Estonia 66.601
+Ethiopia 68.597
+Finland 67.5
+France 69.652
+Gabon 70.0
+Gambia 66.402
+Georgia 68.001
+Germany 67.657
+Ghana 69.0
+Greece 67.3
+Guatemala 68.25
+Guinea 68.8
+Honduras 65.9
+Hong Kong S.A.R. of China 66.102
+Hungary 66.7
+India 73.503
+Indonesia 69.495
+Iran 67.333
+Iraq 66.603
+Ireland 66.9
+Italy 67.199
+Ivory Coast 66.208
+Jamaica 66.005
+Jordan 66.3
+Kazakhstan 67.201
+Kenya 67.355
+Kuwait 67.0
+Latvia 73.4
+Lebanon 73.9
+Lesotho 73.8
+Liberia 68.2
+Lithuania 70.6
+Malawi 67.299
+Mali 76.953
+Malta 67.401
+Mauritius 68.034
+Mexico 67.102
+Mozambique 66.701
+Switzerland 72.0
+Taiwan Province of China 72.7
+Tajikistan 74.4
+Tanzania 73.0
+Thailand 72.4
+Togo 73.3
+Tunisia 72.7
+Turkey 72.6
+Turkmenistan 73.3
+Uganda 72.5
+Ukraine 72.4
+United Arab Emirates 72.5
+United Kingdom 72.199
+United States 74.0
+Uruguay 72.2
+Uzbekistan 74.7
+Venezuela 73.8
+Vietnam 73.898
+Yemen 72.6
+Zambia 72.6
+Zimbabwe 73.898
